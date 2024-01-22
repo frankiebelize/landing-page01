@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: skyblue;
+    line-height: 1.6;
+}
+
+#showcase {
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 0 20;
+
+}
+
+#showcase h1{
+    font-size: 50px;
+}
+
+#showcase p{
+    font-size: 20px;
+}
+
+#showcase .button{
+    font-size: 15px;
+    text-decoration: none;
+    color: skyblue;
+    border: skyblue 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+#showcase .button:hover{
+    background: skyblue;
+    color: white;
+}
+
+#section-a{
+    padding: 20px;
+    background:skyblue;
+    color: white;
+    text-align: center;
+}
+
+#section-b{
+    padding: 20px;
+    background:rgb(234, 233, 233);
+    text-align: center;
+}
+
+#section-c{
+    display: flex;
+}
+
+#section-c div{
+    padding: 20px;
+}
+
+#section-c .box1, #section-c .box3{
+    background: skyblue;
+    color: white;
+}
