@@ -16,5 +16,5 @@ Deployed Link: https://frankiebelize.github.io/landing-page01/
 ## Credits
 github: Franco Folgrait(ME) - https://github.com/frankiebelize
 ## License
-[Title](MIT License)
+MIT License
 ---
